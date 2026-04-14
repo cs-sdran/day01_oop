@@ -1,5 +1,7 @@
 package com.chen.oop;
 
+import java.sql.SQLOutput;
+
 public class Dog {//面向对象创建小狗类
    private String name;
    private int age;

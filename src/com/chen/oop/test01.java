@@ -57,7 +57,7 @@ public class test01 {
         nowage=a.getAge()+1;
         a.setAge(nowage);
 
-
         System.out.println(a.getName()+a.getWeight()+a.getAge()+a.getHeight());
     }
+
 }
